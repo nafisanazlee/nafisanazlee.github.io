@@ -11,4 +11,4 @@ This is Nafisa Karim Nazlee, an undergraduate student at [BRAC University](https
 
 Contact me
 ======
-If you want to reach me, email me [here](mailto:nafisanazlee3@gmail.com)
+If you want to reach me, email me [here](nafisanazlee3@gmail.com).
