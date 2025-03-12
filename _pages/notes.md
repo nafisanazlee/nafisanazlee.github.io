@@ -22,4 +22,4 @@ JNI Winter School
 University Math
 ======
 * Spring 2025
-  * [Theory of Numbers](https://nafisanazlee.github.io/files/Lec_Notes_MAT411.pdf)
+  * [Theory of Numbers](https://nafisanazlee.github.io/files/Lec_Notes_MAT422.pdf)
