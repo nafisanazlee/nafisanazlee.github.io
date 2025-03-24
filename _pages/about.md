@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-This is Nafisa Karim Nazlee, an undergraduate student at [BRAC University](https://bracu.ac.bd) majoring in Mathematics with minors in Physics and Computer science. I make notes on interesting classes I attend, and you can find the notes [here](https://nafisanazlee.github.io/notes/). I also like to sing, paint and play the guitar sometimes. I am also interested in philosophy and linguistics.
+This is Nafisa Karim Nazlee, an undergraduate student at [BRAC University](https://bracu.ac.bd). My interests include Mathematics, Physics and Computer Science. I make notes on interesting classes I attend, and you can find the notes [here](https://nafisanazlee.github.io/notes/). I enjoy singing, painting, and occasionally playing the guitar. I'm also interested in philosophy and linguistics.
 
 Contact me
 ======
